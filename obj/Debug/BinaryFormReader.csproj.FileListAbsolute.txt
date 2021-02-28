@@ -1,0 +1,12 @@
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\BinaryFormReader.csproj.ResolveComReference.cache
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\BinaryFormReader.exe
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\BinaryFormReader.pdb
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\ResolveAssemblyReference.cache
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\BinaryFormReader.Browser.resources
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\BinaryFormReader.DisplayForm.resources
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\BinaryFormReader.MainForm.resources
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\BinaryFormReader.OrginalForm.resources
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\BinaryFormReader.TempForm.resources
+D:\VC#Projects\lastproj\GajFormReader\obj\Debug\BinaryFormReader.csproj.GenerateResource.Cache
+D:\VC#Projects\lastproj\GajFormReader\bin\Debug\BinaryFormReader.exe
+D:\VC#Projects\lastproj\GajFormReader\bin\Debug\BinaryFormReader.pdb
